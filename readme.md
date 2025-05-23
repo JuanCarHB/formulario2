@@ -12,14 +12,6 @@ Este proyecto es un formulario web simple que permite a los usuarios registrarse
 
 ---
 
-## 📂 Estructura de Archivos
-
-registro-zod/
-├── index.html # Formulario HTML
-├── script.js # Lógica JavaScript y validación Zod
-└── zod (CDN incluido en HTML)
----
-
 ## 🧰 Cómo usar el proyecto
 
 1. **Clona o descarga** este repositorio.
